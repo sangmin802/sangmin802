@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi I'm Sangmin 👋
+🌱 I’m currently learning about FrontEnd
 <!--
 **sangmin802/sangmin802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
