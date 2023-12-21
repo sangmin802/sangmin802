@@ -11,4 +11,4 @@ Blog : https://sangmin802.github.io/
 <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> -->
 
-[![version](https://img.shields.io/badge/version-1.0.1-yellow.svg)](https://semver.org)
+
